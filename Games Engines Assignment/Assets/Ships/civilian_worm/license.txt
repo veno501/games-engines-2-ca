@@ -1,0 +1,11 @@
+Model Information:
+* title:	Civilian Worm
+* source:	https://sketchfab.com/3d-models/civilian-worm-06335749659f45a292e9d5b2023ffde7
+* author:	NebulaTank (https://sketchfab.com/NebulaTank)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Civilian Worm" (https://sketchfab.com/3d-models/civilian-worm-06335749659f45a292e9d5b2023ffde7) by NebulaTank (https://sketchfab.com/NebulaTank) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
