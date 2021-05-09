@@ -1,6 +1,6 @@
 # games-engines-2-ca
 
-For my assignment I decided to recreate a scene from Ender's Game (2013). Not the oldest Sci-Fi film, but it's got amazing looking space ships and drones that even show a flocking behaviour in the film itself. It's about space battle strategy, so it's a good fit for an AI demo (Star Wars has great ships from their Clone Wars era too, but it's been overdone..)
+For my assignment I decided to recreate a scene from Ender's Game (2013). Not the oldest Sci-Fi film, but it's got amazing looking space ships and drones that even show a flocking behaviour in the film itself. It's about space battle strategy, so it's a good fit for an AI demo (Star Wars has great ships from their Clone Wars era too, but you mention it's been overdone)
 
 Some shots from the film:
 ![image](https://user-images.githubusercontent.com/21022646/109868003-7026d180-7c67-11eb-8919-4c284f13388e.png)
@@ -13,15 +13,15 @@ Some shots from the film:
 
 # assets
 
-The problem is that I can't find any ship models for the film at all. Sadly I'll have to either download more generic replacements, or make simple/lower-poly versions myself. I hope that doesn't lose me any points :)
+I couldn't find any ship models for the film at all. So I had to download a little more generic replacements. I went for a low-poly look.
 
 # AI behaviours
 
-For the scene I'll be using drones with a flocking behaviour, making different formations, avoiding collision, overall some target chasing maneuvers. The frigates will be using simpler, slower moves and will be in formation.
+For the scene I used drones with boid behaviours, resulting in interesting formations, avoiding collision, overall some target chasing and fleeing maneuvers. The frigates are be using simpler, slower moves, being mostly in formation.
 
 # storyboard
 
-The scene is a battle between Earth's fleet and some alien spaceships. The conflict begins as the humans "run into" a group of alien ships collecting water from some icy rocks in an asteroid belt. We strike first, deploying drone boids, and after some good boid-on-boid action, the camera reveals some of the human frigates have split from the group, positioning themselves behind/below the icy asteroids that were being mined. Just as they are spotted, the shots are off and the outflanked alien spaceships are in pieces. In a final stand, the alien boids swarm the flagship and the human boids make a formation around it, shielding it. The flagship ends the scene with a flashy superweapon, chaining bolts of lightning through the remaining alien boids.
+The scene is a battle between Earth's fleet and some aliens. The conflict begins as the humans float by an alien mothership collecting water from some icy rocks in an asteroid belt. Both sides deploy drone boids, and after some good boid-on-boid action, the camera reveals one of the human frigates has split from the group, positioning itself beneath/behind the icy asteroids that were being mined. Just as it's spotted, its shots are off and the outflanked alien ship is in pieces. The remaining alien drones are consequently killed, since their operation relies on their mothership.
 
 Well, I hope the story isn't a little too ambitious
 
